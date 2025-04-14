@@ -69,7 +69,7 @@ This flow ensures:
 
 ## 🖼️ Flow Diagram
 
-![Power Automate Flow](./image.png)
+![Power Automate Flow](https://github.com/nandan2003/Automated-Email-Notification-Flow-using-Power-Automate/blob/1e4f6d4ac8f746407d504468e4896fd9db63c68b/Email%20Automation%20Flow.png)
 
 ---
 
